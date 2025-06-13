@@ -1,5 +1,5 @@
 # LSTM-Wavelet-Forecasting-adaptive-threshold-version
-Trading signal generator using LSTM and Wavelet denoising technique.
+Price predictor using LSTM and Wavelet denoising technique.
 In this code is written for research environment in Quantconnect. I have modified the SVM Wavelet Forecasting sterategy that implemented by Quantconnect team in the following page:
 
 "https://www.quantconnect.com/explore/14987999/SVM-Wavelet-Forecasting" 
